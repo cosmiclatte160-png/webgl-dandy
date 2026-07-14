@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "142252934045",
+    "project_id": "dandyxp-cb236",
+    "storage_bucket": "dandyxp-cb236.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142252934045:ios:cbdd74688a4ad423ada574",
+        "android_client_info": {
+          "package_name": "com.Dandy.DandyXP"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk7BceUwNdIj7HYyJKnlu0cbCSTEyCoFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
